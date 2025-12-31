@@ -1,7 +1,7 @@
 # Plasmid–AMR Association Analysis in Klebsiella pneumoniae
 
 ## Overview
-This project explores the relationship between antimicrobial resistance (AMR) genes and plasmid replicon types in *Klebsiella pneumoniae* using publicly available genome assemblies. The analysis focuses on identifying non-random gene–plasmid association patterns and resistance genes with broader plasmid association.
+This mini project explores the relationship between antimicrobial resistance (AMR) genes and plasmid replicon types in *Klebsiella pneumoniae* using publicly available genome assemblies. The analysis focuses on identifying non-random gene–plasmid association patterns and resistance genes with broader plasmid association.
 
 ## Data
 - 5 *Klebsiella pneumoniae* RefSeq genomes
